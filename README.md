@@ -10,7 +10,7 @@ Welcome to my GitHub profile. You will find numerous free things here for your e
 * [Aeon Garden](https://github.com/amiantos/aeongarden) - An artificial life toy, kinda like an abstract fish tank that evolves over time
 * [dotBeat](https://github.com/amiantos/dotbeat) - Swatch Internet Time in your macOS menu bar
 
-### Art
+### macOS Screensavers
 - [Life Saver](https://github.com/amiantos/lifesaver) - Conway's Game of Life implemented as an artistic, abstract macOS screensaver and tvOS app
 - [MultiClock](https://github.com/amiantos/multiclock) - Displays the time (and nifty animations) using 24 clocks
 - [Last Statement](https://github.com/amiantos/last-statement) - It's like the "Word of the Day" screensaver, except it's the last statements of people executed by the State of Texas
