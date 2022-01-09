@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile. You will find numerous free things here for your enjoyment. Contemplate:
 
-> People have been thinking too long that art is a privilege of the museums & the rich. Art is not business! It does not belong to banks & fancy investors. Art is food. You can't eat it but it feeds you. Art has to be cheap & available to everybody. Art soothes pain! Art wakes up sleepers! Art fights against war & stupdity! Art sings halleluja! Art is for kitchens! Art is like good bread! Art is like green trees! Art is like white clouds in blue sky! ART IS CHEAP! [HURRAH!](https://breadandpuppet.org/cheap-art/why-cheap-art-manifesto)
+> People have been thinking too long that art is a privilege of the museums & the rich. Art is not business! It does not belong to banks & fancy investors. Art is food. You can't eat it but it feeds you. Art has to be cheap & available to everybody. Art soothes pain! Art wakes up sleepers! Art fights against war & stupdity! Art sings halleluja! Art is for kitchens! Art is like good bread! Art is like green trees! Art is like white clouds in blue sky! [ART IS CHEAP!](https://breadandpuppet.org/cheap-art/why-cheap-art-manifesto)
 
 ### Apps
 * [PiBar](https://github.com/amiantos/pibar) - Manage your Pi-hole(s) from your macOS menu bar
