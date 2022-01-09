@@ -13,4 +13,4 @@ Welcome to my GitHub profile. You will find numerous free things here for your e
 ### Art
 - [Life Saver](https://github.com/amiantos/lifesaver) - Conway's Game of Life implemented as an artistic, abstract macOS screensaver and tvOS app
 - [MultiClock](https://github.com/amiantos/multiclock) - Displays the time (and nifty animations) using 24 clocks
-- [Last Statement](https://github.com/amiantos/last-statement) - It's like the "Word of the Day" screensaver, but it's the last statements of people executed by the State of Texas
+- [Last Statement](https://github.com/amiantos/last-statement) - It's like the "Word of the Day" screensaver, except it's the last statements of people executed by the State of Texas
