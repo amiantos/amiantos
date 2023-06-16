@@ -9,10 +9,12 @@ If you sponsor me on GitHub or Patreon, or buy PiBar/dotBeat on the Mac App Stor
 ### Apps
 * [PiBar](https://github.com/amiantos/pibar) - Manage your Pi-hole(s) from your macOS menu bar
 * [Gamebook Engine](https://github.com/amiantos/gamebookengine) - Create and play interactive fiction on your iOS devices
+* [Aislingeach](https://github.com/amiantos/aislingeach) - iOS interface for the AI Horde, a crowdsourced cluster of image generation workers
 * [Aeon Garden](https://github.com/amiantos/aeongarden) - An artificial life toy, kinda like an abstract fish tank that evolves over time
 * [dotBeat](https://github.com/amiantos/dotbeat) - Swatch Internet Time in your macOS menu bar
 
 ### macOS Screensavers
 - [Life Saver](https://github.com/amiantos/lifesaver) - Conway's Game of Life implemented as an artistic, abstract macOS screensaver and tvOS app
 - [MultiClock](https://github.com/amiantos/multiclock) - Displays the time (and nifty animations) using 24 clocks
+- [Ealain](https://github.com/amiantos/ealain) - Infinite, forever changing abstract works of art, created using Stable Diffusion
 - [Last Statement](https://github.com/amiantos/last-statement) - It's like the "Word of the Day" screensaver, except it's the last statements of people executed by the State of Texas
