@@ -9,7 +9,7 @@ If you sponsor me on GitHub or Patreon, or buy PiBar/dotBeat on the Mac App Stor
 ### Apps
 * [PiBar](https://github.com/amiantos/pibar) - Manage your Pi-hole(s) from your macOS menu bar
 * [Gamebook Engine](https://github.com/amiantos/gamebookengine) - Create and play interactive fiction on your iOS devices
-* [Aislingeach](https://github.com/amiantos/aislingeach) - iOS interface for the AI Horde, a crowdsourced cluster of image generation workers
+* [Aislingeach](https://github.com/amiantos/aislingeach) - iOS interface for the Stable Horde, a crowdsourced cluster of image generation workers
 * [Aeon Garden](https://github.com/amiantos/aeongarden) - An artificial life toy, kinda like an abstract fish tank that evolves over time
 * [dotBeat](https://github.com/amiantos/dotbeat) - Swatch Internet Time in your macOS menu bar
 
