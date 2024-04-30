@@ -5,10 +5,12 @@ Welcome to my GitHub profile. You will find numerous things here for your enjoym
 > People have been thinking too long that art is a privilege of the museums & the rich. Art is not business! It does not belong to banks & fancy investors. Art is food. You can't eat it but it feeds you. Art has to be cheap & available to everybody. Art soothes pain! Art wakes up sleepers! Art fights against war & stupdity! Art sings halleluja! Art is for kitchens! Art is like good bread! Art is like green trees! Art is like white clouds in blue sky! [ART IS CHEAP!](https://breadandpuppet.org/cheap-art/why-cheap-art-manifesto)
 
 ### Apps
+* [Aislingeach](https://github.com/amiantos/aislingeach) - iOS image generation client for the AI Horde
+* [Inneal](https://github.com/amiantos/inneal) - iOS chatbot client for the AI Horde
 * [PiBar](https://github.com/amiantos/pibar) - Manage your Pi-hole(s) from your macOS menu bar
 * [Gamebook Engine](https://github.com/amiantos/gamebookengine) - Create and play interactive fiction on your iOS devices
-* [Aislingeach](https://github.com/amiantos/aislingeach) - iOS interface for the Stable Horde, a crowdsourced cluster of image generation workers
 * [dotBeat](https://github.com/amiantos/dotbeat) - Swatch Internet Time in your macOS menu bar
+
 
 ### macOS Screensavers
 - [Life Saver](https://github.com/amiantos/lifesaver) - Conway's Game of Life implemented as an artistic, abstract macOS screensaver and tvOS app
