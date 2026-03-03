@@ -4,13 +4,13 @@ Welcome to my GitHub profile. You will find numerous things here for your enjoym
 
 > People have been thinking too long that art is a privilege of the museums & the rich. Art is not business! It does not belong to banks & fancy investors. Art is food. You can't eat it but it feeds you. Art has to be cheap & available to everybody. Art soothes pain! Art wakes up sleepers! Art fights against war & stupdity! Art sings halleluja! Art is for kitchens! Art is like good bread! Art is like green trees! Art is like white clouds in blue sky! [ART IS CHEAP!](https://breadandpuppetpress.org/products/why-cheap-art)
 
-### Self-hosted Apps
-* [Postalgic](https://github.com/amiantos/postalgic) - A static CMS for blogging and more
+### Self-hosted Apps (Express + Vue)
+* [Postalgic](https://github.com/amiantos/postalgic) - A static CMS for decentralized blogging
 * [Dreamers Guild](https://github.com/amiantos/dreamers-guild) - Image generation client for the AI Horde
 * [Writers Guild](https://github.com/amiantos/writers-guild) - Short story oriented SillyTavern alternative
 
 ### iOS Apps
-* [Postalgic](https://github.com/amiantos/postalgic-ios) - A pocket-sized CMS and static site generator
+* [Postalgic](https://github.com/amiantos/postalgic-ios) - A pocket-sized static CMS for iOS
 * [Aislingeach](https://github.com/amiantos/aislingeach) - Image generation client for the AI Horde
 * [Inneal](https://github.com/amiantos/inneal) - Roleplay chatbot client for the AI Horde
 * [Gamebook Engine](https://github.com/amiantos/gamebookengine) - Create and play interactive fiction on your iOS devices
