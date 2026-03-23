@@ -17,7 +17,7 @@ Welcome to my GitHub profile. You will find numerous things here for your enjoym
 
 ### macOS Apps
 * [PiBar](https://github.com/amiantos/pibar) - Manage your Pi-hole(s) from your macOS menu bar
-* [C64 Ultimate Toolbox](https://github.com/amiantos/c64u-viewer) - View and remotely control your Commodore 64 Ultimate, with great CRT effects
+* [C64 Ultimate Toolbox](https://github.com/amiantos/c64-ultimate-toolbox) - View and remotely control your Commodore 64 Ultimate, with great CRT effects
 * [dotBeat](https://github.com/amiantos/dotbeat) - Swatch Internet Time in your macOS menu bar
 
 ### macOS Screensavers
