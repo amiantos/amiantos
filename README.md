@@ -22,6 +22,7 @@ Welcome to my GitHub profile. You will find numerous things here for your enjoym
 * [Inneal](https://github.com/amiantos/inneal) - Roleplay chatbot client for the AI Horde
 
 ### Self-hosted Apps (Express + Vue)
+* [Lurker](https://github.com/amiantos/lurker) - An always-on IRC client for you and your friends
 * [Postalgic](https://github.com/amiantos/postalgic) - A static CMS for blogging like it's 1999
 * [Dreamers Guild](https://github.com/amiantos/dreamers-guild) - Image generation client for the AI Horde
 * [Writers Guild](https://github.com/amiantos/writers-guild) - Short story oriented SillyTavern alternative
