@@ -17,12 +17,12 @@ Welcome to my GitHub profile. You will find numerous things here for your enjoym
 
 ### iOS Apps
 * [Gamebook Engine](https://github.com/amiantos/gamebookengine) (2019) - Create and play interactive fiction on your iOS devices
-* [Postalgic](https://github.com/amiantos/postalgic-ios) (2026) - A pocket-sized static CMS for iOS
+* [Postalgic](https://github.com/amiantos/postalgic-ios) (2023) - A pocket-sized static CMS for iOS
 * [Aislingeach](https://github.com/amiantos/aislingeach) (2023) - Image generation client for the AI Horde
 * [Inneal](https://github.com/amiantos/inneal) (2024) - Roleplay chatbot client for the AI Horde
 
 ### Self-hosted Apps (Express + Vue)
 * [Lurker](https://github.com/amiantos/lurker) (2026) - An always-on IRC client for you and your friends
-* [Postalgic](https://github.com/amiantos/postalgic) (2023) - A static CMS for blogging like it's 1999
+* [Postalgic](https://github.com/amiantos/postalgic) (2026) - A static CMS for blogging like it's 1999
 * [Dreamers Guild](https://github.com/amiantos/dreamers-guild) (2025) - Image generation client for the AI Horde
 * [Writers Guild](https://github.com/amiantos/writers-guild) (2025) - Short story oriented SillyTavern alternative
